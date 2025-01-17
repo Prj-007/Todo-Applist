@@ -1,3 +1,3 @@
 # Todo-Applist
-A Todo-applist
+Todo-applist :
 A clean and simple todo app with features like adding and deletion of tasks.
